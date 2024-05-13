@@ -1,0 +1,15 @@
+h3{
+    text-align: center;
+    font-style: italic;
+    text-decoration:underline ;
+}
+ul
+{
+    width: 75vw;
+}
+li
+{
+    background-color: greenyellow;
+    margin-block: 1.5em;
+    padding: 1em;
+}

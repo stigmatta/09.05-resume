@@ -1,0 +1,27 @@
+h1{
+    text-align: center;
+    margin-block: 1em;
+}
+main{
+    width: 100%;
+}
+
+section
+{
+    padding-block: 2em;
+    background-color: rgb(194, 74, 74);
+}
+
+.image-container {
+    display: flex;
+    margin-block: 3em;
+    margin-right: 5em;
+    justify-content: center;
+    width: 100%;
+    align-items: center;
+  }
+  
+  .centered-image {
+    width: 15em;
+  }
+  
